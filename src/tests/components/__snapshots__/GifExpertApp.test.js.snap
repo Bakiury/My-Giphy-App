@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifExpertApp /> Debe Funcionar correctamente 1`] = `
+<Fragment>
+  <h2>
+    My Giphy App
+  </h2>
+  <AddCategory
+    setCategories={[Function]}
+  />
+  <hr />
+  <div>
+    <GifGrid
+      category="Naruto"
+      key="Naruto"
+    />
+  </div>
+</Fragment>
+`;
